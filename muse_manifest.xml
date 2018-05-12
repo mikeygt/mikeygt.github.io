@@ -1,0 +1,72 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="michaelmuffuh.me" resolutions="1x" timestamp="1526140931221">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3805272278" ref="index:art:comic-style-art:about-villian:manga-skecth:contact:about-hero:about"/>
+    <file name="index.css" crc="4186634418" ref="index"/>
+    <file name="art.css" crc="3993517468" ref="art"/>
+    <file name="comic-style-art.css" crc="88547539" ref="comic-style-art"/>
+    <file name="about-villian.css" crc="88547539" ref="about-villian"/>
+    <file name="manga-skecth.css" crc="88547539" ref="manga-skecth"/>
+    <file name="contact.css" crc="88547539" ref="contact"/>
+    <file name="about-hero.css" crc="88547539" ref="about-hero"/>
+    <file name="about.css" crc="405932816" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="require.js" crc="4157109226" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="webpro.js" crc="242022427" ref="art"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="art"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="art"/>
+    <file name="touchswipe.js" crc="4066113679" ref="art"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="u215.png" crc="3806982083" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="u215-a.png" crc="479342280" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="u220.png" crc="3780422957" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="u220-a.png" crc="519872913" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="u259.png" crc="334833444" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="u259-a.png" crc="210813716" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="u277.png" crc="359535384" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="u277-a.png" crc="3862478882" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="vega.jpg" crc="428301645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spark.jpg" crc="4117406999" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus-crop-u428.jpg" crc="3943034755" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="road-crop-u430.jpg" crc="4255517905" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="trees-crop-u426.jpg" crc="412176938" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="cactus-crop-u433.jpg" crc="3777517591" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="trees-crop-u437.jpg" crc="253318460" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="road-crop-u435.jpg" crc="4139263874" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="art"/>
+  </folder>
+  <file name="index.html" crc="211110775" seo="true" mt="1524938267241" redirect="true"/>
+  <file name="about.html" crc="3852844872" seo="true" mt="1524937907938" redirect="true"/>
+  <file name="art.html" crc="4104081044" seo="true" mt="1526139280685" redirect="true"/>
+  <file name="contact.html" crc="236665222" seo="true" mt="1524937907931" redirect="true"/>
+  <file name="comic-style-art.html" crc="94574358" seo="true" mt="1524937907931" redirect="true"/>
+  <file name="manga-skecth.html" crc="358885185" seo="true" mt="1524937907931" redirect="true"/>
+  <file name="about-hero.html" crc="93195687" seo="true" mt="1524937907931" redirect="true"/>
+  <file name="about-villian.html" crc="133017223" seo="true" mt="1524937907931" redirect="true"/>
+</manifest>
