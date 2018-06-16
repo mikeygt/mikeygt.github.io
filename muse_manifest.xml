@@ -1,72 +1,224 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="michaelmuffuh.me" resolutions="1x" timestamp="1526140931221">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="michaelmuffuh.me" resolutions="1x" timestamp="1529158991238">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3805272278" ref="index:art:comic-style-art:about-villian:manga-skecth:contact:about-hero:about"/>
-    <file name="index.css" crc="4186634418" ref="index"/>
-    <file name="art.css" crc="3993517468" ref="art"/>
-    <file name="comic-style-art.css" crc="88547539" ref="comic-style-art"/>
-    <file name="about-villian.css" crc="88547539" ref="about-villian"/>
-    <file name="manga-skecth.css" crc="88547539" ref="manga-skecth"/>
-    <file name="contact.css" crc="88547539" ref="contact"/>
-    <file name="about-hero.css" crc="88547539" ref="about-hero"/>
-    <file name="about.css" crc="405932816" ref="about"/>
+    <file name="master_a-master.css" crc="76501399" ref="manga-skecth:contact:about:index:comic-style-art:art"/>
+    <file name="manga-skecth.css" crc="3796751872" ref="manga-skecth"/>
+    <file name="contact.css" crc="215615383" ref="contact"/>
+    <file name="about.css" crc="3787569530" ref="about"/>
+    <file name="index.css" crc="158294309" ref="index"/>
+    <file name="comic-style-art.css" crc="4207414049" ref="comic-style-art"/>
+    <file name="art.css" crc="64519480" ref="art"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
-    <file name="museutils.js" crc="3803043152" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
-    <file name="museconfig.js" crc="380897831" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
-    <file name="require.js" crc="4157109226" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
-    <file name="webpro.js" crc="242022427" ref="art"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="art"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="art"/>
-    <file name="touchswipe.js" crc="4066113679" ref="art"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:art:contact:comic-style-art:manga-skecth"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:art:contact:comic-style-art:manga-skecth"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:art:contact:comic-style-art:manga-skecth"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:art:contact:comic-style-art:manga-skecth"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:art:contact:comic-style-art:manga-skecth"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:about:art:contact:comic-style-art:manga-skecth"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:art:contact:comic-style-art:manga-skecth"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:art:contact:comic-style-art:manga-skecth"/>
+    <file name="require.js" crc="4157109226" ref="index:about:art:contact:comic-style-art:manga-skecth"/>
+    <file name="webpro.js" crc="242022427" ref="contact:comic-style-art:manga-skecth"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u533.php" crc="195343265" ref="contact"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="comic-style-art:manga-skecth"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="comic-style-art:manga-skecth"/>
+    <file name="touchswipe.js" crc="4066113679" ref="comic-style-art:manga-skecth"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
-    <file name="u215.png" crc="3806982083" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
-    <file name="u215-a.png" crc="479342280" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
-    <file name="u220.png" crc="3780422957" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
-    <file name="u220-a.png" crc="519872913" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
-    <file name="u259.png" crc="334833444" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
-    <file name="u259-a.png" crc="210813716" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
-    <file name="u277.png" crc="359535384" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
-    <file name="u277-a.png" crc="3862478882" ref="index:about:art:contact:comic-style-art:manga-skecth:about-hero:about-villian"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_pinterest_317731.svg" crc="471950145" seo="true" ref="index:about:art:contact:comic-style-art:manga-skecth">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="comic-style-art" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="if_pinterest_317731_poster_.png" crc="4220584823" ref="index"/>
     <file name="vega.jpg" crc="428301645" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="spark.jpg" crc="4117406999" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cactus-crop-u428.jpg" crc="3943034755" seo="true" ref="art">
+    <file name="pasted-svg-140386x135.svg" crc="3940823509" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 140386x135_poster_.png" crc="249374113" ref="index"/>
+    <file name="infamous_second_son-seattle_beauty_shot_386_13920349631392158287.jpg" crc="4275157795" ref="index:about:art:contact:comic-style-art:manga-skecth">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="comic-style-art" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="20180424_142520.jpg" crc="3821094670" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="comic hero link.jpg" crc="4255614608" seo="true" ref="art">
       <caption webpage="art" alt=""/>
     </file>
-    <file name="road-crop-u430.jpg" crc="4255517905" seo="true" ref="art">
+    <file name="manga knight link.jpg" crc="31240547" seo="true" ref="art">
       <caption webpage="art" alt=""/>
     </file>
-    <file name="trees-crop-u426.jpg" crc="412176938" seo="true" ref="art">
-      <caption webpage="art" alt=""/>
+    <file name="angle.jpg" crc="55678015" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
     </file>
-    <file name="cactus-crop-u433.jpg" crc="3777517591" seo="true" ref="art">
-      <caption webpage="art" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="comic-style-art:manga-skecth"/>
+    <file name="smokzone.jpg" crc="222794470" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
     </file>
-    <file name="trees-crop-u437.jpg" crc="253318460" seo="true" ref="art">
-      <caption webpage="art" alt=""/>
+    <file name="eye study.jpg" crc="3926145028" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
     </file>
-    <file name="road-crop-u435.jpg" crc="4139263874" seo="true" ref="art">
-      <caption webpage="art" alt=""/>
+    <file name="smirk.jpg" crc="456362011" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="art"/>
+    <file name="brawl of the to powers.jpg" crc="138334408" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="neona merc.jpg" crc="362097471" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="monk on the north.jpg" crc="414902705" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="val.jpg" crc="4030349960" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="hand study.jpg" crc="259595826" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="hero.jpg" crc="381298317" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="looking left.jpg" crc="481551134" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="panel part 1.jpg" crc="3820118065" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="panel part 2.jpg" crc="3968768261" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="angle-crop-u1255.jpg" crc="206180211" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="brawl of the to powers-crop-u1787.jpg" crc="279102369" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="hand study-crop-u1893.jpg" crc="3794658058" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="panel part 2-crop-u2186.jpg" crc="463744212" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="smokzone-crop-u1760.jpg" crc="35184103" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="neona merc-crop-u1814.jpg" crc="73518635" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="hero-crop-u1265.jpg" crc="92275847" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="eye study-crop-u1249.jpg" crc="351358637" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="monk on the north-crop-u1841.jpg" crc="4085609044" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="looking left-crop-u1961.jpg" crc="122149442" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="smirk-crop-u1259.jpg" crc="513995541" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="val-crop-u1868.jpg" crc="57373718" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="panel part 1-crop-u2159.jpg" crc="3949159700" seo="true" ref="comic-style-art">
+      <caption webpage="comic-style-art" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="comic-style-art:manga-skecth"/>
+    <file name="character faces.jpg" crc="4142762318" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="chibi squad.jpg" crc="3978859652" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="drug free poster.jpg" crc="4071880737" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="vega fury.jpg" crc="177050392" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="knight squadarn.jpg" crc="507455581" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="black knight.jpg" crc="97751064" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="neo godzilla.jpg" crc="4200829697" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="jest fiend.jpg" crc="3999169208" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="maddien calvert.jpg" crc="3953504331" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="redge pendragon.jpg" crc="313146391" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="vega 1st.jpg" crc="363996854" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="character faces-crop-u1510.jpg" crc="4017031727" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="knight squadarn-crop-u1516.jpg" crc="4277636935" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="maddien calvert-crop-u2078.jpg" crc="433891421" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="chibi squad-crop-u1504.jpg" crc="26054928" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="black knight-crop-u1999.jpg" crc="51122369" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="redge pendragon-crop-u2105.jpg" crc="69665436" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="drug free poster-crop-u1520.jpg" crc="3762683957" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="neo godzilla-crop-u2236.jpg" crc="359301614" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="vega 1st-crop-u2132.jpg" crc="4201311997" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="vega fury-crop-u1514.jpg" crc="3813679573" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
+    <file name="jest fiend-crop-u2051.jpg" crc="3934298526" seo="true" ref="manga-skecth">
+      <caption webpage="manga-skecth" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="211110775" seo="true" mt="1524938267241" redirect="true"/>
-  <file name="about.html" crc="3852844872" seo="true" mt="1524937907938" redirect="true"/>
-  <file name="art.html" crc="4104081044" seo="true" mt="1526139280685" redirect="true"/>
-  <file name="contact.html" crc="236665222" seo="true" mt="1524937907931" redirect="true"/>
-  <file name="comic-style-art.html" crc="94574358" seo="true" mt="1524937907931" redirect="true"/>
-  <file name="manga-skecth.html" crc="358885185" seo="true" mt="1524937907931" redirect="true"/>
-  <file name="about-hero.html" crc="93195687" seo="true" mt="1524937907931" redirect="true"/>
-  <file name="about-villian.html" crc="133017223" seo="true" mt="1524937907931" redirect="true"/>
+  <file name="index.html" crc="4210856232" seo="true" mt="1529089685375" redirect="true"/>
+  <file name="about.html" crc="4225575853" seo="true" mt="1529158934008" redirect="true"/>
+  <file name="art.html" crc="4213546391" seo="true" mt="1529089685375" redirect="true"/>
+  <file name="contact.html" crc="4162703174" seo="true" mt="1529089685375" redirect="true"/>
+  <file name="comic-style-art.html" crc="4040465035" seo="true" mt="1529089685375" redirect="true"/>
+  <file name="manga-skecth.html" crc="45098692" seo="true" mt="1529089685375" redirect="true"/>
 </manifest>

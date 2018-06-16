@@ -11,47 +11,210 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "comic-style-art.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "require.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "comic-style-art.css"], "outOfDate":[]};
 </script>
   
   <title>Comic style art</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3805272278"/>
-  <link rel="stylesheet" type="text/css" href="css/comic-style-art.css?crc=88547539" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=76501399"/>
+  <link rel="stylesheet" type="text/css" href="css/comic-style-art.css?crc=4207414049" id="pagesheet"/>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   var __adobewebfontsappname__ = "muse";
+</script>
   <!-- JS includes -->
+  <script src="https://webfonts.creativecloud.com/acme:n4:default.js" type="text/javascript"></script>
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
    </head>
- <body>
+ <body class="museBGSize">
 
-  <div class="clearfix borderbox" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="u205-6" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-    <p>Michael Muffuh</p>
-    <p>Wed desigin</p>
+  <div class="rounded-corners clearfix borderbox" id="page"><!-- group -->
+   <div class="clearfix grpelem" id="ppu205-5"><!-- column -->
+    <div class="clearfix colelem" id="pu205-5"><!-- group -->
+     <div class="clearfix grpelem" id="u205-5" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p id="u205-3"><span id="u205">Michael Muffuh</span><span id="u205-2"></span></p>
+     </div>
+     <nav class="MenuBar clearfix grpelem" id="menuu208"><!-- horizontal box -->
+      <div class="MenuItemContainer clearfix grpelem" id="u209"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u212" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u215-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>Home</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u216"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u217" href="about.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u220-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>About</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u254"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u257" href="art.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u259-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>Art</p></div><div class="grpelem" id="u260"><!-- content --></div></a>
+       <div class="SubMenu MenuLevel1 clearfix" id="u255"><!-- vertical box -->
+        <ul class="SubMenuView clearfix colelem" id="u256"><!-- vertical box -->
+         <li class="MenuItemContainer clearfix colelem" id="u974"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix grpelem" id="u976" href="comic-style-art.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u980-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><div id="u980-3"><p>Comic style art</p></div></div></a></li>
+         <li class="MenuItemContainer clearfix colelem" id="u995"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u996" href="manga-skecth.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u999-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><div id="u999-3"><p>Manga skecth</p></div></div></a></li>
+        </ul>
+       </div>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u275"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u276" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u277-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>Contact</p></div></a>
+      </div>
+     </nav>
+    </div>
+    <div class="SlideShowWidget clearfix widget_invisible colelem" id="slideshowu1206" data-visibility="changed" style="visibility:hidden"><!-- none box -->
+     <div class="popup_anchor allow_click_through grpelem" data-col-pos="0" id="u1207popup">
+      <div class="SlideShowContentPanel rgba-background clearfix" data-col-pos="0" id="u1207"><!-- stack box -->
+       <div class="SSSlide clip_frame grpelem" data-col-pos="0" id="u1212"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="0" id="u1212_img" data-src="images/angle.jpg?crc=55678015" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="1.3931888544891642" data-image-width="323" data-image-height="450"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" data-col-pos="1" id="u1754"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="1" id="u1754_img" data-src="images/smokzone.jpg?crc=222794470" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="1.3719512195121952" data-image-width="328" data-image-height="450"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" data-col-pos="2" id="u1210"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="2" id="u1210_img" data-src="images/eye%20study.jpg?crc=3926145028" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="1.4150943396226414" data-image-width="318" data-image-height="450"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" data-col-pos="3" id="u1218"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="3" id="u1218_img" data-src="images/smirk.jpg?crc=456362011" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="1.4657980456026058" data-image-width="307" data-image-height="450"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" data-col-pos="4" id="u1781"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="4" id="u1781_img" data-src="images/brawl%20of%20the%20to%20powers.jpg?crc=138334408" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="1.2396694214876034" data-image-width="363" data-image-height="450"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" data-col-pos="5" id="u1808"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="5" id="u1808_img" data-src="images/neona%20merc.jpg?crc=362097471" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="1.3595166163141994" data-image-width="331" data-image-height="450"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" data-col-pos="6" id="u1835"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="6" id="u1835_img" data-src="images/monk%20on%20the%20north.jpg?crc=414902705" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="1.3392857142857142" data-image-width="336" data-image-height="450"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" data-col-pos="7" id="u1862"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="7" id="u1862_img" data-src="images/val.jpg?crc=4030349960" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="1.355421686746988" data-image-width="332" data-image-height="450"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" data-col-pos="8" id="u1887"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="8" id="u1887_img" data-src="images/hand%20study.jpg?crc=259595826" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="1.3888888888888888" data-image-width="324" data-image-height="450"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" data-col-pos="9" id="u1220"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="9" id="u1220_img" data-src="images/hero.jpg?crc=381298317" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="1.3636363636363635" data-image-width="330" data-image-height="450"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" data-col-pos="10" id="u1955"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="10" id="u1955_img" data-src="images/looking%20left.jpg?crc=481551134" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="1.3761467889908257" data-image-width="327" data-image-height="450"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" data-col-pos="11" id="u2153"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="11" id="u2153_img" data-src="images/panel%20part%201.jpg?crc=3820118065" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="1.3595166163141994" data-image-width="331" data-image-height="450"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" data-col-pos="12" id="u2180"><!-- image -->
+        <img class="block ImageInclude" data-col-pos="12" id="u2180_img" data-src="images/panel%20part%202.jpg?crc=3968768261" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="1.3677811550151975" data-image-width="329" data-image-height="450"/>
+       </div>
+      </div>
+     </div>
+     <div class="popup_anchor allow_click_through grpelem" data-col-pos="1" id="u1246popup">
+      <div class="SSSlideLinks clearfix" data-col-pos="1" id="u1246" data-height-width-ratio="0.8286604361370716"><!-- horizontal-rows box -->
+       <div class="clearfix grpelem" id="pu1255"><!-- column -->
+        <div class="SSSlideLink clip_frame colelem" data-col-pos="0" id="u1255"><!-- image -->
+         <img class="block" data-col-pos="0" id="u1255_img" src="images/angle-crop-u1255.jpg?crc=206180211" alt="" data-heightwidthratio="0.8421052631578947" data-image-width="228" data-image-height="192"/>
+        </div>
+        <div class="SSSlideLink clip_frame colelem" data-col-pos="4" id="u1787"><!-- image -->
+         <img class="block" data-col-pos="4" id="u1787_img" src="images/brawl%20of%20the%20to%20powers-crop-u1787.jpg?crc=279102369" alt="" data-heightwidthratio="0.8421052631578947" data-image-width="228" data-image-height="192"/>
+        </div>
+        <div class="SSSlideLink clip_frame colelem" data-col-pos="8" id="u1893"><!-- image -->
+         <img class="block" data-col-pos="8" id="u1893_img" src="images/hand%20study-crop-u1893.jpg?crc=3794658058" alt="" data-heightwidthratio="0.8421052631578947" data-image-width="228" data-image-height="192"/>
+        </div>
+        <div class="SSSlideLink clip_frame colelem" data-col-pos="12" id="u2186"><!-- image -->
+         <img class="block" data-col-pos="12" id="u2186_img" src="images/panel%20part%202-crop-u2186.jpg?crc=463744212" alt="" data-heightwidthratio="0.8421052631578947" data-image-width="228" data-image-height="192"/>
+        </div>
+       </div>
+       <div class="clearfix grpelem" id="pu1760"><!-- column -->
+        <div class="SSSlideLink clip_frame colelem" data-col-pos="1" id="u1760"><!-- image -->
+         <img class="block" data-col-pos="1" id="u1760_img" src="images/smokzone-crop-u1760.jpg?crc=35184103" alt="" data-heightwidthratio="0.8421052631578947" data-image-width="228" data-image-height="192"/>
+        </div>
+        <div class="SSSlideLink clip_frame colelem" data-col-pos="5" id="u1814"><!-- image -->
+         <img class="block" data-col-pos="5" id="u1814_img" src="images/neona%20merc-crop-u1814.jpg?crc=73518635" alt="" data-heightwidthratio="0.8421052631578947" data-image-width="228" data-image-height="192"/>
+        </div>
+        <div class="SSSlideLink clip_frame colelem" data-col-pos="9" id="u1265"><!-- image -->
+         <img class="block" data-col-pos="9" id="u1265_img" src="images/hero-crop-u1265.jpg?crc=92275847" alt="" data-heightwidthratio="0.8421052631578947" data-image-width="228" data-image-height="192"/>
+        </div>
+       </div>
+       <div class="clearfix grpelem" id="pu1249"><!-- column -->
+        <div class="SSSlideLink clip_frame colelem" data-col-pos="2" id="u1249"><!-- image -->
+         <img class="block" data-col-pos="2" id="u1249_img" src="images/eye%20study-crop-u1249.jpg?crc=351358637" alt="" data-heightwidthratio="0.8421052631578947" data-image-width="228" data-image-height="192"/>
+        </div>
+        <div class="SSSlideLink clip_frame colelem" data-col-pos="6" id="u1841"><!-- image -->
+         <img class="block" data-col-pos="6" id="u1841_img" src="images/monk%20on%20the%20north-crop-u1841.jpg?crc=4085609044" alt="" data-heightwidthratio="0.8421052631578947" data-image-width="228" data-image-height="192"/>
+        </div>
+        <div class="SSSlideLink clip_frame colelem" data-col-pos="10" id="u1961"><!-- image -->
+         <img class="block" data-col-pos="10" id="u1961_img" src="images/looking%20left-crop-u1961.jpg?crc=122149442" alt="" data-heightwidthratio="0.8421052631578947" data-image-width="228" data-image-height="192"/>
+        </div>
+       </div>
+       <div class="clearfix grpelem" id="pu1259"><!-- column -->
+        <div class="SSSlideLink clip_frame colelem" data-col-pos="3" id="u1259"><!-- image -->
+         <img class="block" data-col-pos="3" id="u1259_img" src="images/smirk-crop-u1259.jpg?crc=513995541" alt="" data-heightwidthratio="0.8421052631578947" data-image-width="228" data-image-height="192"/>
+        </div>
+        <div class="SSSlideLink clip_frame colelem" data-col-pos="7" id="u1868"><!-- image -->
+         <img class="block" data-col-pos="7" id="u1868_img" src="images/val-crop-u1868.jpg?crc=57373718" alt="" data-heightwidthratio="0.8421052631578947" data-image-width="228" data-image-height="192"/>
+        </div>
+        <div class="SSSlideLink clip_frame colelem" data-col-pos="11" id="u2159"><!-- image -->
+         <img class="block" data-col-pos="11" id="u2159_img" src="images/panel%20part%201-crop-u2159.jpg?crc=3949159700" alt="" data-heightwidthratio="0.8421052631578947" data-image-width="228" data-image-height="192"/>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="popup_anchor allow_click_through grpelem" data-col-pos="2" id="u1234popup">
+      <div class="SlideShowCaptionPanel clearfix" data-col-pos="2" id="u1234"><!-- stack box -->
+       <div class="SSSlideCaption clearfix grpelem" data-col-pos="0" id="u1241-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+        <p>Lorem ipsum dolor sit amet.</p>
+       </div>
+       <div class="SSSlideCaption invi clearfix grpelem" data-col-pos="1" id="u1766-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+        <p>Lorem ipsum dolor sit amet.2</p>
+       </div>
+       <div class="SSSlideCaption invi clearfix grpelem" data-col-pos="2" id="u1237-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+        <p>Lorem ipsum dolor sit amet.5</p>
+       </div>
+       <div class="SSSlideCaption invi clearfix grpelem" data-col-pos="3" id="u1245-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+        <p>Lorem ipsum dolor sit amet.8</p>
+       </div>
+       <div class="SSSlideCaption invi clearfix grpelem" data-col-pos="4" id="u1793-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+        <p>Lorem ipsum dolor sit amet.9</p>
+       </div>
+       <div class="SSSlideCaption invi clearfix grpelem" data-col-pos="5" id="u1820-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+        <p>Lorem ipsum dolor sit amet.10</p>
+       </div>
+       <div class="SSSlideCaption invi clearfix grpelem" data-col-pos="6" id="u1847-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+        <p>Lorem ipsum dolor sit amet.11</p>
+       </div>
+       <div class="SSSlideCaption invi clearfix grpelem" data-col-pos="7" id="u1874-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+        <p>Lorem ipsum dolor sit amet.12</p>
+       </div>
+       <div class="SSSlideCaption invi clearfix grpelem" data-col-pos="8" id="u1899-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+        <p>Lorem ipsum dolor sit amet.13</p>
+       </div>
+       <div class="SSSlideCaption invi clearfix grpelem" data-col-pos="9" id="u1236-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+        <p>Lorem ipsum dolor sit amet.7</p>
+       </div>
+       <div class="SSSlideCaption invi clearfix grpelem" data-col-pos="10" id="u1967-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+        <p>Lorem ipsum dolor sit amet.8</p>
+       </div>
+       <div class="SSSlideCaption invi clearfix grpelem" data-col-pos="11" id="u2165-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+        <p>Lorem ipsum dolor sit amet.9</p>
+       </div>
+       <div class="SSSlideCaption invi clearfix grpelem" data-col-pos="12" id="u2192-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+        <p>Lorem ipsum dolor sit amet.10</p>
+       </div>
+      </div>
+     </div>
+     <div class="popup_anchor allow_click_through grpelem" data-col-pos="4" id="u1269-4popup">
+      <div class="SSPreviousButton clearfix" data-col-pos="4" id="u1269-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+       <p>&lt;</p>
+      </div>
+     </div>
+     <div class="popup_anchor allow_click_through grpelem" data-col-pos="5" id="u1270-4popup">
+      <div class="SSNextButton clearfix" data-col-pos="5" id="u1270-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+       <p>&gt;</p>
+      </div>
+     </div>
+     <div class="popup_anchor allow_click_through grpelem" data-col-pos="7" id="u1232-4popup">
+      <div class="SlideShowLabel SSSlideCount clearfix" data-col-pos="7" id="u1232-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+       <p>13 - 13</p>
+      </div>
+     </div>
+    </div>
    </div>
-   <nav class="MenuBar clearfix grpelem" id="menuu208"><!-- horizontal box -->
-    <div class="MenuItemContainer clearfix grpelem" id="u209"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u212" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem" id="u215"><!-- state-based BG images --><img alt="Home" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
-    </div>
-    <div class="MenuItemContainer clearfix grpelem" id="u216"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u217" href="about.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem" id="u220"><!-- state-based BG images --><img alt="About" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
-    </div>
-    <div class="MenuItemContainer clearfix grpelem" id="u254"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u257" href="art.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem" id="u259"><!-- state-based BG images --><img alt="Art" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
-    </div>
-    <div class="MenuItemContainer clearfix grpelem" id="u275"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u276" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem" id="u277"><!-- state-based BG images --><img alt="Contact" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
-    </div>
-   </nav>
-   <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="94" data-content-below-spacer="702" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
-  </div>
-  <div class="preload_images">
-   <img class="preload" src="images/u215-a.png?crc=479342280" alt=""/>
-   <img class="preload" src="images/u220-a.png?crc=519872913" alt=""/>
-   <img class="preload" src="images/u259-a.png?crc=210813716" alt=""/>
-   <img class="preload" src="images/u277-a.png?crc=3862478882" alt=""/>
+   <a class="nonblock nontext clip_frame grpelem" id="u522" href="https://www.pinterest.com/kevin20603mm/"><!-- svg --><img class="svg" id="u518" src="images/if_pinterest_317731.svg?crc=471950145" alt="" data-mu-svgfallback="images/if_pinterest_317731_poster_.png?crc=4220584823" data-heightwidthratio="1" data-image-width="56" data-image-height="56"/></a>
+   <div class="verticalspacer" data-offset-top="1006" data-content-above-spacer="1006" data-content-below-spacer="152" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -64,12 +227,14 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.watch","webpro","musewpslideshow","jquery.museoverlay","touchswipe","jquery.musepolyfill.bgsize"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.popup_anchor.allow_click_through');/* resize height */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('#slideshowu1206', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:false,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:true,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:true}); $(elem).data('widget', widget); return widget; });/* #slideshowu1206 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

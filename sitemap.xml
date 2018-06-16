@@ -2,74 +2,218 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://michaelmuffuh.me/index.html</loc>
-    <lastmod>2018-04-28</lastmod>
+    <lastmod>2018-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/if_pinterest_317731.svg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://michaelmuffuh.me/images/vega.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://michaelmuffuh.me/images/spark.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/pasted-svg-140386x135.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://michaelmuffuh.me/about.html</loc>
-    <lastmod>2018-04-28</lastmod>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/if_pinterest_317731.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/20180424_142520.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://michaelmuffuh.me/art.html</loc>
-    <lastmod>2018-05-12</lastmod>
+    <lastmod>2018-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://michaelmuffuh.me/images/cactus-crop-u428.jpg</image:loc>
+      <image:loc>http://michaelmuffuh.me/images/if_pinterest_317731.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://michaelmuffuh.me/images/road-crop-u430.jpg</image:loc>
+      <image:loc>http://michaelmuffuh.me/images/comic%20hero%20link.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://michaelmuffuh.me/images/trees-crop-u426.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://michaelmuffuh.me/images/cactus-crop-u433.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://michaelmuffuh.me/images/trees-crop-u437.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://michaelmuffuh.me/images/road-crop-u435.jpg</image:loc>
+      <image:loc>http://michaelmuffuh.me/images/manga%20knight%20link.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://michaelmuffuh.me/contact.html</loc>
-    <lastmod>2018-04-28</lastmod>
+    <lastmod>2018-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/if_pinterest_317731.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://michaelmuffuh.me/comic-style-art.html</loc>
-    <lastmod>2018-04-28</lastmod>
+    <lastmod>2018-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/if_pinterest_317731.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/angle.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/smokzone.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/eye%20study.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/smirk.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/brawl%20of%20the%20to%20powers.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/neona%20merc.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/monk%20on%20the%20north.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/val.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/hand%20study.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/hero.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/looking%20left.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/panel%20part%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/panel%20part%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/angle-crop-u1255.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/brawl%20of%20the%20to%20powers-crop-u1787.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/hand%20study-crop-u1893.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/panel%20part%202-crop-u2186.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/smokzone-crop-u1760.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/neona%20merc-crop-u1814.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/hero-crop-u1265.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/eye%20study-crop-u1249.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/monk%20on%20the%20north-crop-u1841.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/looking%20left-crop-u1961.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/smirk-crop-u1259.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/val-crop-u1868.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/panel%20part%201-crop-u2159.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://michaelmuffuh.me/manga-skecth.html</loc>
-    <lastmod>2018-04-28</lastmod>
+    <lastmod>2018-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://michaelmuffuh.me/about-hero.html</loc>
-    <lastmod>2018-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://michaelmuffuh.me/about-villian.html</loc>
-    <lastmod>2018-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/if_pinterest_317731.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/character%20faces.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/chibi%20squad.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/drug%20free%20poster.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/vega%20fury.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/knight%20squadarn.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/black%20knight.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/neo%20godzilla.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/jest%20fiend.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/maddien%20calvert.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/redge%20pendragon.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/vega%201st.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/character%20faces-crop-u1510.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/knight%20squadarn-crop-u1516.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/maddien%20calvert-crop-u2078.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/chibi%20squad-crop-u1504.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/black%20knight-crop-u1999.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/redge%20pendragon-crop-u2105.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/drug%20free%20poster-crop-u1520.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/neo%20godzilla-crop-u2236.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/vega%201st-crop-u2132.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/vega%20fury-crop-u1514.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelmuffuh.me/images/jest%20fiend-crop-u2051.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
